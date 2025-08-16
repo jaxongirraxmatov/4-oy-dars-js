@@ -1,0 +1,133 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1440px;
+    padding: 15px;
+}
+
+.button {
+    padding: 11px 31px;
+    border-radius: 25px;
+    background-color: #F2F2F2;
+    text-decoration: none;
+    color: #E28625;
+    font-family: "Lexend Deca";
+}
+
+.button2 {
+    padding: 11px 31px;
+    border-radius: 25px;
+    background-color: #F2F2F2;
+    text-decoration: none;
+    color: #006971;
+    font-family: "Lexend Deca";
+}
+
+.button3 {
+    padding: 11px 31px;
+    border-radius: 25px;
+    background-color: #F2F2F2;
+    text-decoration: none;
+    color: #004140;
+    font-family: "Lexend Deca";
+}
+
+.parent {
+    width: 920px;
+    height: 500px;
+    display: flex;
+    overflow: hidden;
+    border-radius: 8px;
+    margin-top: 170px;
+    margin-right: 260px;
+    margin-left: 260px;
+}
+
+.child1 {
+    width: 307px;
+    height: 500px;
+    background-color: #E28625;
+    padding: 48px;
+} 
+
+.child1 h2 {
+    margin-top: 35px;
+    margin-bottom: 25px;
+    font-family: "Big Shoulders";
+    color: #F2F2F2;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 100%;
+} 
+
+.child1 p {
+    width: 200px;
+    color: #f8e1c8;
+    opacity: 75%;
+    margin-bottom: 83px;
+    font-family: "Lexend Deca";
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0px;
+}   
+
+.child2 {
+    width: 307px;
+    height: 500px;
+    background-color: #006971;
+    padding: 48px;
+}
+
+.child2 h2 {
+    margin-top: 35px;
+    margin-bottom: 25px;
+    font-family: "Big Shoulders";
+    color: #F2F2F2;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 100%;
+}
+
+.child2 p {
+    width: 200px;
+    color: #bfd9db;
+    margin-bottom: 83px;
+    font-family: "Lexend Deca";
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0px;
+}
+
+.child3 {
+    width: 307px;
+    height: 500px;
+    background-color: #004140;
+    padding: 48px;
+}
+
+.child3 h2 {
+    margin-top: 35px;
+    margin-bottom: 25px;
+    font-family: "Big Shoulders";
+    color: #F2F2F2;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 100%;
+}
+
+.child3 p {
+    width: 200px;
+    color: #bfcfcf;
+    margin-bottom: 83px;
+    font-family: "Lexend Deca";
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0px;
+} */
