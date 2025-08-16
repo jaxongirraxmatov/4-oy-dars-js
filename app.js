@@ -1,3 +1,4 @@
+
 const body = document.querySelector(".body");
 body.style.cssText = `
     margin: 0;
@@ -137,6 +138,3 @@ child3p3.style.cssText = `
     line-height: 25px;
     letter-spacing: 0px;
 `
-
-
-
