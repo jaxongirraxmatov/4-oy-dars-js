@@ -27,30 +27,36 @@ parent.style.cssText = `
 
 const button = document.querySelector(".button");
 button.style.cssText = `
-  padding: 11px 31px;
+    margin-top: 83px;
+    padding: 11px 31px;
     border-radius: 25px;
     background-color: #F2F2F2;
     text-decoration: none;
     color: #E28625;
     font-family: "Lexend Deca";
+    width: fit-content;
 `
 const button2 = document.querySelector(".button2");
 button2.style.cssText = `
+    margin-top: 83px;
     padding: 11px 31px;
     border-radius: 25px;
     background-color: #F2F2F2;
     text-decoration: none;
     color: #006971;
     font-family: "Lexend Deca";
+    width: fit-content;
 `
 const button3 = document.querySelector(".button3");
 button3.style.cssText = `
+    margin-top: 83px;
     padding: 11px 31px;
     border-radius: 25px;
     background-color: #F2F2F2;
     text-decoration: none;
     color: #004140;
     font-family: "Lexend Deca";
+    width: fit-content;
 `
 const child1 = document.querySelector(".child1");
 child1.style.cssText = `
@@ -58,6 +64,8 @@ child1.style.cssText = `
     height: 500px;
     background-color: #E28625;
     padding: 48px;
+    display: flex; 
+    flex-direction: column;
 `
 const child2 = document.querySelector(".child2");
 child2.style.cssText = `
@@ -65,6 +73,8 @@ child2.style.cssText = `
     height: 500px;
     background-color: #006971;
     padding: 48px;
+    display: flex; 
+    flex-direction: column;
 `
 const child3 = document.querySelector(".child3");
 child3.style.cssText = `
@@ -72,6 +82,8 @@ child3.style.cssText = `
     height: 500px;
     background-color: #004140;
     padding: 48px;
+    display: flex;
+    flex-direction: column;
 `
 const child1h1 = document.querySelector(".child1h1");
 child1h1.style.cssText = `
